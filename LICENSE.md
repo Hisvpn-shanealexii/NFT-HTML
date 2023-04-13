@@ -6,6 +6,7 @@ Lettering
 CAD Software 
 All rights owned by Hunter Integral Smith.
 web3 {software}
+ 
 Logo <triangle> Lettering<H-I-S>CAD Software {All rights owned by Hunter Integral Smith} {His Complete} {Hunter Smith}
 digital asset {His Complete}
 <increasingly digital> 
