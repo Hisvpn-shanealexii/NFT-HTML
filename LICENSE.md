@@ -16,7 +16,7 @@ This entity is decentralized amongst 7 entities
 <Hunter Integral Smith><Hunter Smith><His Complete><His_____________><His__________><His_______>
 
 Network 
-<blockchaining>
+<blockchain>
 A database that stores data in blocks that are linked together in a chain.
 <code>
 <NFT><HTML>
